@@ -1,0 +1,5 @@
+
+SetPackageName(SimpleMath)
+
+
+SetSources("./")
